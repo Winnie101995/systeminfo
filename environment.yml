@@ -1,0 +1,9 @@
+name: softwareEngineering
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - pandas
+  - numpy
+prefix: /Users/winnieimafidon/opt/anaconda3/envs/softwareEngineering
